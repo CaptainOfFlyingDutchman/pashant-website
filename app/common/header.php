@@ -152,22 +152,22 @@
           <!--mobile collapse menu button-->
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
           <!--social media icons-->
-          <div class="navbar-text social-media social-media-inline pull-right">
-            <!--@todo: replace with company social media details-->
+          <!--<div class="navbar-text social-media social-media-inline pull-right">
+            <!--@todo: replace with company social media details-!->
             <a href="#"><i class="fa fa-twitter"></i></a>
             <a href="#"><i class="fa fa-facebook"></i></a>
             <a href="#"><i class="fa fa-linkedin"></i></a>
             <a href="#"><i class="fa fa-google-plus"></i></a>
-          </div>
+          </div>-->
           <!--everything within this div is collapsed on mobile-->
           <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav" id="main-menu">
               <li class="icon-link">
                 <a href="/"><i class="fa fa-home"></i></a>
               </li>
-              <li class="dropdown">
+              <!--<li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages<b class="caret"></b></a>
-                <!-- Dropdown Menu -->
+                <!-- Dropdown Menu -!->
                 <ul class="dropdown-menu">
                   <li class="dropdown-header">Flexor Lite Version Pages</li>
                   <li><a href="../../elements.html" tabindex="-1" class="menu-item">Elements</a></li>
@@ -176,15 +176,15 @@
                   <li><a href="../../register.html" tabindex="-1" class="menu-item">Sign-Up</a></li>
                   <li class="dropdown-footer">Dropdown footer</li>
                 </ul>
-              </li>
-              <li><a href="#">Menu Link</a></li>
+              </li>-->
+              <li><a href="/app/about">About Us</a></li>
               <li class="dropdown dropdown-mm">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mega Menu<b class="caret"></b></a>
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Services<b class="caret"></b></a>
                 <!-- Dropdown Menu -->
                 <ul class="dropdown-menu dropdown-menu-mm dropdown-menu-persist">
                   <li class="row">
                     <ul class="col-md-6">
-                      <li class="dropdown-header">Websites and Apps</li>
+                      <li class="dropdown-header">E-Commerce</li>
                       <li><a href="#">Analysis and Planning</a></li>
                       <li><a href="#">User Experience / Information Architecture</a></li>
                       <li><a href="#">User Interface Design / UI Design</a></li>
@@ -193,18 +193,18 @@
                     <ul class="col-md-6">
                       <li class="dropdown-header">Enterprise solutions</li>
                       <li><a href="#">Business Analysis</a></li>
-                      <li><a href="#">Custom UX Consulting</a></li>
+<!--                      <li><a href="#">Custom UX Consulting</a></li>-->
                       <li><a href="#">Quality Assurance</a></li>
                     </ul>
                   </li>
-                  <li class="dropdown-footer">
+                  <!--<li class="dropdown-footer">
                     <div class="row">
                       <div class="col-md-7">Like the lite version? <strong>Get the extended version of Flexor.</strong></div>
                       <div class="col-md-5">
                         <a href="https://bootstrapmade.com" class="btn btn-more btn-lg pull-right"><i class="fa fa-cloud-download"></i> Get It Now</a>
                       </div>
                     </div>
-                  </li>
+                  </li>-->
                 </ul>
               </li>
             </ul>
