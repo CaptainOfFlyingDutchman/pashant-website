@@ -124,7 +124,7 @@
           <div class="row">
             <div class="col-md-8">
               <!--navbar-branding/logo - hidden image tag & site name so things like Facebook to pick up, actual logo set via CSS for flexibility -->
-              <a class="navbar-brand" href="/home.php" title="Home">
+              <a class="navbar-brand" href="/" title="Home">
                 <h1 class="hidden">
                     <img src="img/logo.png" alt="Flexor Logo">
                     Flexor
@@ -163,7 +163,7 @@
           <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav" id="main-menu">
               <li class="icon-link">
-                <a href="/home.php"><i class="fa fa-home"></i></a>
+                <a href="/"><i class="fa fa-home"></i></a>
               </li>
               <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages<b class="caret"></b></a>
@@ -214,8 +214,6 @@
       </div>
     </div>
     <?php
-    if($_SERVER[REQUEST_URI]=='/'){
        require_once('slider.php');
-    }
     ?>
   </div>
