@@ -1,7 +1,7 @@
-<?php 
-require_once('header.php');
-require_once('homecontent.php');
-require_once('hiring.php');
-require_once('clients.php');
-require_once('footer.php');
+<?php
+require_once('./app/common/header.php');
+require_once('./app/home/content.php');
+require_once('./app/common/hiring.php');
+require_once('./app/common/clients.php');
+require_once('./app/common/footer.php');
 ?>

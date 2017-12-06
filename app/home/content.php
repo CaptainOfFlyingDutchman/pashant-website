@@ -17,7 +17,7 @@
         <div class="item-carousel" data-toggle="owlcarousel" data-owlcarousel-settings='{"items":4, "pagination":false, "navigation":true, "itemsScaleUp":true}'>
           <div class="item">
             <a href="#" class="overlay-wrapper">
-                <img src="img/showcase/project1.png" alt="Project 1 image" class="img-responsive underlay">
+                <img src="../../img/showcase/project1.png" alt="Project 1 image" class="img-responsive underlay">
                 <span class="overlay">
                   <span class="overlay-content"> <span class="h4">Project 1</span> </span>
                 </span>
@@ -31,7 +31,7 @@
           </div>
           <div class="item">
             <a href="#" class="overlay-wrapper">
-                <img src="img/showcase/project2.png" alt="Project 2 image" class="img-responsive underlay">
+                <img src="../../img/showcase/project2.png" alt="Project 2 image" class="img-responsive underlay">
                 <span class="overlay">
                   <span class="overlay-content"> <span class="h4">Project 2</span> </span>
                 </span>
@@ -45,7 +45,7 @@
           </div>
           <div class="item">
             <a href="#" class="overlay-wrapper">
-                <img src="img/showcase/project3.png" alt="Project 3 image" class="img-responsive underlay">
+                <img src="../../img/showcase/project3.png" alt="Project 3 image" class="img-responsive underlay">
                 <span class="overlay">
                   <span class="overlay-content"> <span class="h4">Project 3</span> </span>
                 </span>
@@ -59,7 +59,7 @@
           </div>
           <div class="item">
             <a href="#" class="overlay-wrapper">
-                <img src="img/showcase/project4.png" alt="Project 4 image" class="img-responsive underlay">
+                <img src="../../img/showcase/project4.png" alt="Project 4 image" class="img-responsive underlay">
                 <span class="overlay">
                   <span class="overlay-content"> <span class="h4">Project 4</span> </span>
                 </span>
@@ -73,7 +73,7 @@
           </div>
           <div class="item">
             <a href="#" class="overlay-wrapper">
-                <img src="img/showcase/project5.png" alt="Project 5 image" class="img-responsive underlay">
+                <img src="../../img/showcase/project5.png" alt="Project 5 image" class="img-responsive underlay">
                 <span class="overlay">
                   <span class="overlay-content"> <span class="h4">Project 5</span> </span>
                 </span>
@@ -87,7 +87,7 @@
           </div>
           <div class="item">
             <a href="#" class="overlay-wrapper">
-                <img src="img/showcase/project6.png" alt="Project 6 image" class="img-responsive underlay">
+                <img src="../../img/showcase/project6.png" alt="Project 6 image" class="img-responsive underlay">
                 <span class="overlay">
                   <span class="overlay-content"> <span class="h4">Project 6</span> </span>
                 </span>
@@ -101,7 +101,7 @@
           </div>
           <div class="item">
             <a href="#" class="overlay-wrapper">
-                <img src="img/showcase/project7.png" alt="Project 7 image" class="img-responsive underlay">
+                <img src="../../img/showcase/project7.png" alt="Project 7 image" class="img-responsive underlay">
                 <span class="overlay">
                   <span class="overlay-content"> <span class="h4">Project 7</span> </span>
                 </span>
@@ -115,7 +115,7 @@
           </div>
           <div class="item">
             <a href="#" class="overlay-wrapper">
-                <img src="img/showcase/project8.png" alt="Project 8 image" class="img-responsive underlay">
+                <img src="../../img/showcase/project8.png" alt="Project 8 image" class="img-responsive underlay">
                 <span class="overlay">
                   <span class="overlay-content"> <span class="h4">Project 8</span> </span>
                 </span>
@@ -129,7 +129,7 @@
           </div>
           <div class="item">
             <a href="#" class="overlay-wrapper">
-                <img src="img/showcase/project9.png" alt="Project 9 image" class="img-responsive underlay">
+                <img src="../../img/showcase/project9.png" alt="Project 9 image" class="img-responsive underlay">
                 <span class="overlay">
                   <span class="overlay-content"> <span class="h4">Project 9</span> </span>
                 </span>
@@ -143,7 +143,7 @@
           </div>
           <div class="item">
             <a href="#" class="overlay-wrapper">
-                <img src="img/showcase/project10.png" alt="Project 10 image" class="img-responsive underlay">
+                <img src="../../img/showcase/project10.png" alt="Project 10 image" class="img-responsive underlay">
                 <span class="overlay">
                   <span class="overlay-content"> <span class="h4">Project 10</span> </span>
                 </span>
@@ -157,7 +157,7 @@
           </div>
           <div class="item">
             <a href="#" class="overlay-wrapper">
-                <img src="img/showcase/project11.png" alt="Project 11 image" class="img-responsive underlay">
+                <img src="../../img/showcase/project11.png" alt="Project 11 image" class="img-responsive underlay">
                 <span class="overlay">
                   <span class="overlay-content"> <span class="h4">Project 11</span> </span>
                 </span>
@@ -171,7 +171,7 @@
           </div>
           <div class="item">
             <a href="#" class="overlay-wrapper">
-                <img src="img/showcase/project12.png" alt="Project 12 image" class="img-responsive underlay">
+                <img src="../../img/showcase/project12.png" alt="Project 12 image" class="img-responsive underlay">
                 <span class="overlay">
                   <span class="overlay-content"> <span class="h4">Project 12</span> </span>
                 </span>

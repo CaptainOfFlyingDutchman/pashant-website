@@ -18,7 +18,7 @@
                   <a href="https://bootstrapmade.com" class="btn btn-more btn-lg i-right">Buy Now <i class="fa fa-plus"></i></a>
                 </div>
                 <div class="col-md-6 col-md-pull-6 hidden-xs">
-                  <img src="img/slides/slide1.png" alt="Slide 1" class="center-block img-responsive">
+                  <img src="../../img/slides/slide1.png" alt="Slide 1" class="center-block img-responsive">
                 </div>
               </div>
             </div>
@@ -36,7 +36,7 @@
                   <a href="https://bootstrapmade.com" class="btn btn-more btn-lg"><i class="fa fa-plus"></i> Learn More</a>
                 </div>
                 <div class="col-md-6 hidden-xs">
-                  <img src="img/slides/slide2.png" alt="Slide 2" class="center-block img-responsive">
+                  <img src="../../img/slides/slide2.png" alt="Slide 2" class="center-block img-responsive">
                 </div>
               </div>
             </div>

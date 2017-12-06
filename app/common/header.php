@@ -32,16 +32,16 @@
   <link href="https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700,900" rel="stylesheet">
 
   <!-- Bootstrap CSS File -->
-  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="../../lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
   <!-- Libraries CSS Files -->
-  <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link href="lib/owlcarousel/owl.carousel.min.css" rel="stylesheet">
-  <link href="lib/owlcarousel/owl.theme.min.css" rel="stylesheet">
-  <link href="lib/owlcarousel/owl.transitions.min.css" rel="stylesheet">
+  <link href="../../lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="../../lib/owlcarousel/owl.carousel.min.css" rel="stylesheet">
+  <link href="../../lib/owlcarousel/owl.theme.min.css" rel="stylesheet">
+  <link href="../../lib/owlcarousel/owl.transitions.min.css" rel="stylesheet">
 
   <!-- Main Stylesheet File -->
-  <link href="css/style.css" rel="stylesheet">
+  <link href="../../css/style.css" rel="stylesheet">
 
   <!--Your custom colour override - predefined colours are: colour-blue.css, colour-green.css, colour-lavander.css, orange is default-->
   <link href="#" id="colour-scheme" rel="stylesheet">
@@ -72,7 +72,7 @@
                   About Us
                 </h3>
               <p>Flexor is a super flexible responsive theme with a modest design touch.</p>
-              <a href="aboutus.php" class="btn btn-more"><i class="fa fa-plus"></i> Learn more</a>
+              <a href="../about/index.php" class="btn btn-more"><i class="fa fa-plus"></i> Learn more</a>
             </div>
             <div class="col-md-3">
               <!--@todo: replace with company contact details-->
@@ -126,7 +126,7 @@
               <!--navbar-branding/logo - hidden image tag & site name so things like Facebook to pick up, actual logo set via CSS for flexibility -->
               <a class="navbar-brand" href="/" title="Home">
                 <h1 class="hidden">
-                    <img src="img/logo.png" alt="Flexor Logo">
+                    <img src="../../img/logo.png" alt="Flexor Logo">
                     Flexor
                   </h1>
               </a>
@@ -139,8 +139,8 @@
             <div class="col-md-4">
               <!--user menu-->
               <ul class="list-inline user-menu pull-right">
-                <li class="hidden-xs"><i class="fa fa-edit text-primary"></i> <a href="register.html" class="text-uppercase">Register</a></li>
-                <li class="hidden-xs"><i class="fa fa-sign-in text-primary"></i> <a href="login.html" class="text-uppercase">Login</a></li>
+                <li class="hidden-xs"><i class="fa fa-edit text-primary"></i> <a href="../../register.html" class="text-uppercase">Register</a></li>
+                <li class="hidden-xs"><i class="fa fa-sign-in text-primary"></i> <a href="../../login.html" class="text-uppercase">Login</a></li>
                 <li><a class="btn btn-primary btn-hh-trigger" role="button" data-toggle="collapse" data-target=".header-hidden">Open</a></li>
               </ul>
             </div>
@@ -170,10 +170,10 @@
                 <!-- Dropdown Menu -->
                 <ul class="dropdown-menu">
                   <li class="dropdown-header">Flexor Lite Version Pages</li>
-                  <li><a href="elements.html" tabindex="-1" class="menu-item">Elements</a></li>
-                  <li><a href="/aboutus.php" tabindex="-1" class="menu-item">About / Inner Page</a></li>
-                  <li><a href="login.html" tabindex="-1" class="menu-item">Login</a></li>
-                  <li><a href="register.html" tabindex="-1" class="menu-item">Sign-Up</a></li>
+                  <li><a href="../../elements.html" tabindex="-1" class="menu-item">Elements</a></li>
+                  <li><a href="/app/about/index.php" tabindex="-1" class="menu-item">About</a></li>
+                  <li><a href="../../login.html" tabindex="-1" class="menu-item">Login</a></li>
+                  <li><a href="../../register.html" tabindex="-1" class="menu-item">Sign-Up</a></li>
                   <li class="dropdown-footer">Dropdown footer</li>
                 </ul>
               </li>
