@@ -8,9 +8,9 @@
 
     $to = "hello@pashant.com";
 
-    $subject = "Checking PHP mail";
+    $subject = $_POST['subject'] . ' | ' . $_POST['name'] . ' | ' . $_POST['email'];
 
-    $message = "PHP mail works just fine";
+    $message = $_POST['message'];
 
     $headers = "From:" . $from;
 

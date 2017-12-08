@@ -82,12 +82,13 @@ jQuery(document).ready(function($) {
         else {
            var str = $(this).serialize();
         }
+        $('#btnContactUs').prop('disabled', true);
             $.ajax({
                 type: "POST",
                 url: "email.php",
                 data: str,
                 success: function(msg){
-                   // alert(msg);
+                    $('#btnContactUs').prop('disabled', false);
                     if(msg == 'OK') {
                         $("#sendmessage").addClass("show");
                         $("#errormessage").removeClass("show");
